@@ -1,0 +1,14 @@
+{
+    "function": "minecraft:filtered",
+    "item_filter": {
+      "items": "minecraft:diamond",
+      "count": 1
+    },
+    "modifier": {
+      "function": "minecraft:set_name",
+      "entity": "this",
+      "target": "item_name",
+      "name": "成功！"
+    }
+  }
+  

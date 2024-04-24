@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:filtered",
+                "item_filter": {
+                  "items": "minecraft:emerald",
+                  "count": 1
+                },
+                "modifier": {
+                  "function": "minecraft:set_name",
+                  "entity": "this",
+                  "target": "item_name",
+                  "name": "成功！"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
