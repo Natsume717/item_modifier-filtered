@@ -1,8 +1,7 @@
 # item_modifier-filtered
 item_modifierの1項目であるfilteredに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】filteredで条件を指示する【item_modifier】](https://natsumake.com/item_modifier-filtered/)』を参考にしてください。
 
 <h3>概要</h3>
 アイテムの条件を指示し、適切であった場合にitem_modifierを適用します。<br>
